@@ -1,4 +1,4 @@
-# -Explorando-Dados-Demogr-ficos-com-Servi-os-de-Big-Data-na-AWS
+# -Explorando-Dados-Demograficos-com-Serviços-de-Big-Data-na-AWS
 
 ## Serviços utilizados nessa atividade prática
 - Amazon S3
